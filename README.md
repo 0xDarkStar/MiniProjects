@@ -1,2 +1,2 @@
-# cScripts
-all of my scripts that are written in c
+# Mini Projects
+All the scripts that are only one file big
